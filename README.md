@@ -1,6 +1,6 @@
 # pee-two: Pabile 2-key Macro Pad
 
-Project page: https://pabileonline.blogspot.com/2021/11/1x2-2-key-macro-pad.html
+Some thoughts from my blog: [here](https://pabileonline.blogspot.com/2021/11/1x2-2-key-macro-pad.html), [here](https://pabileonline.blogspot.com/2022/03/a-brief-introduction-to-p2-p9v2-p40v3.html)  
 
 ![p2 pee-two Pabile2](https://github.com/pabile/pee-two/blob/2e16d40bc188a089ef017f76e408057dc2d90b49/img/_DSC8363-sm.jpg) 
 
@@ -11,7 +11,7 @@ Firmware (Vial compatible): https://github.com/pabile/pee-two/blob/main/firmware
 ![p2 pcb](https://github.com/pabile/pee-two/blob/2e16d40bc188a089ef017f76e408057dc2d90b49/img/p2-pcb.jpg)
 
 
-PCB: https://github.com/pabile/pee-two/tree/main/pcb 
+PCB: https://github.com/pabile/pee-two/tree/main/pcb  
 Casing: https://www.thingiverse.com/thing:5142409
 
 Other components:
@@ -26,3 +26,8 @@ Other components:
 - [fb.com/pabilekeyboards](https://www.facebook.com/pabilekeyboards) 
 - [Shopee Ph](https://shp.ee/8jv9s9j) 
 - [Lazada Ph](http://lazada.com.ph/pabile)
+
+
+## 
+
+> Please help Philipines fight disinformation
