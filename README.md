@@ -20,3 +20,9 @@ Other components:
 - Up to one EC11 rotary encoder
 - Two Sk6812 Mini-E 3228 LED
 - Up to two mx switch, keycap/s, knob for rotary encoder, USB cable
+
+
+## Assembled kits
+- [fb.com/pabilekeyboards](https://www.facebook.com/pabilekeyboards) 
+- [Shopee Ph](https://shp.ee/8jv9s9j) 
+- [Lazada Ph](http://lazada.com.ph/pabile)
