@@ -8,7 +8,7 @@ QMK configuration files: https://github.com/pabile/pee-two/tree/main/firmware/p2
 Firmware (Vial compatible): https://github.com/pabile/pee-two/blob/main/firmware/pabile_p2_vial.hex  
 
 ## Building your own
-![p2 pcb](https://github.com/pabile/pee-two/blob/2e16d40bc188a089ef017f76e408057dc2d90b49/img/p2-pcb.jpg)
+![p2 pcb](https://github.com/pabile/pee-two/blob/2e16d40bc188a089ef017f76e408057dc2d90b49/img/p2-pcb.jpg) 
 
 
 PCB: https://github.com/pabile/pee-two/tree/main/pcb  
@@ -30,4 +30,4 @@ Other components:
 
 ## 
 
-> Please help Philipines fight disinformation
+> Please help Philippines fight disinformation
