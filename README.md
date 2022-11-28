@@ -8,6 +8,9 @@ QMK configuration files: https://github.com/pabile/pee-two/tree/main/firmware/p2
 Firmware (Vial compatible): https://github.com/pabile/pee-two/blob/main/firmware/pabile_p2_vial.hex  
 
 ## Building your own
+
+[Follow this assembly guide.](https://github.com/pabile/Pabile-Keyboards/wiki/Assembly-Guide-for-P2-Macropad)
+
 ![p2 pcb](https://github.com/pabile/pee-two/blob/2e16d40bc188a089ef017f76e408057dc2d90b49/img/p2-pcb.jpg) 
 
 
