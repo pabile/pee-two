@@ -1,4 +1,4 @@
-# pee-two: Pabile 2-key Macro Pad
+# pee-two: Pabile 2-key P2 Macro Pad
 
 Some thoughts from my blog: [here](https://pabileonline.blogspot.com/2021/11/1x2-2-key-macro-pad.html), [here](https://pabileonline.blogspot.com/2022/03/a-brief-introduction-to-p2-p9v2-p40v3.html)  
 
@@ -30,6 +30,8 @@ Other components:
 - [Shopee Ph](https://shp.ee/8jv9s9j) 
 - [Lazada Ph](http://lazada.com.ph/pabile)
 
+
+![P2 in stacked acrylic casing](https://github.com/pabile/Pabile-Keyboards/raw/main/img/p2-blade-08.jpg) 
 
 ## 
 
