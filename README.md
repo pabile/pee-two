@@ -26,6 +26,7 @@ Other components:
 
 
 ## Assembled kits
+- [etsy UK](https://pabilekeyboards.etsy.com)
 - [fb.com/pabilekeyboards](https://www.facebook.com/pabilekeyboards) 
 - [Shopee Ph](https://shp.ee/8jv9s9j) 
 - [Lazada Ph](http://lazada.com.ph/pabile)
